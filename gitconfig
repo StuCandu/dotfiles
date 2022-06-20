@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sschuman@global.t-bird.edu
+	name = Stuart Schuman
